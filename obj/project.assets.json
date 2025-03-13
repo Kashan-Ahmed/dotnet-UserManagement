@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kashan/Desktop/coursera/UserManagementAPI/UserManagementAPI.csproj",
+      "projectUniqueName": "/home/kashan/personal/dotnet-UserManagement/UserManagementAPI.csproj",
       "projectName": "UserManagementAPI",
-      "projectPath": "/home/kashan/Desktop/coursera/UserManagementAPI/UserManagementAPI.csproj",
+      "projectPath": "/home/kashan/personal/dotnet-UserManagement/UserManagementAPI.csproj",
       "packagesPath": "/home/kashan/.nuget/packages/",
-      "outputPath": "/home/kashan/Desktop/coursera/UserManagementAPI/obj/",
+      "outputPath": "/home/kashan/personal/dotnet-UserManagement/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kashan/.nuget/NuGet/NuGet.Config"

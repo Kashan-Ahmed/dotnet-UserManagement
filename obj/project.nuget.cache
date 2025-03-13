@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CN1S9ulg8td7KbQSz9rb3Lt7Eqd2Qcw05oxCUr2NZbyVHQer2vAwRMl7j1MeN1kQQ8MqstpiIvVlwvInT+Q0hQ==",
+  "dgSpecHash": "tKv2gwO+kGZhwFkD3tuj9UusTyJJ/XSIo6XxN8V5qrLISj8fQKVnvXHt40A/LI6DFzQC28goHLD4wxnJKemyeg==",
   "success": true,
-  "projectFilePath": "/home/kashan/Desktop/coursera/UserManagementAPI/UserManagementAPI.csproj",
+  "projectFilePath": "/home/kashan/personal/dotnet-UserManagement/UserManagementAPI.csproj",
   "expectedPackageFiles": [
     "/home/kashan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.14/microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
     "/home/kashan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
