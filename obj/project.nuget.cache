@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CN1S9ulg8td7KbQSz9rb3Lt7Eqd2Qcw05oxCUr2NZbyVHQer2vAwRMl7j1MeN1kQQ8MqstpiIvVlwvInT+Q0hQ==",
+  "success": true,
+  "projectFilePath": "/home/kashan/Desktop/coursera/UserManagementAPI/UserManagementAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/kashan/.nuget/packages/microsoft.aspnetcore.openapi/8.0.14/microsoft.aspnetcore.openapi.8.0.14.nupkg.sha512",
+    "/home/kashan/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/kashan/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/kashan/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/kashan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/kashan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/kashan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
