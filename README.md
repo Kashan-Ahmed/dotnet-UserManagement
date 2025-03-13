@@ -11,7 +11,7 @@ A simple **ASP.NET Core Web API** for managing users with in-memory storage, CRU
 ✅ **Validation:** Ensures only valid user data is processed  
 ✅ **Middleware:** Custom **logging middleware** for request tracking  
 ✅ **GitHub Repository:** This project is version-controlled with Git & GitHub  
-✅ **GitHub Copilot Assistance:** Used to debug & improve code efficiency  
+✅ **Copilot Assistance:** Used to debug & improve code efficiency  
 
 ---
 
@@ -70,7 +70,7 @@ This project is managed in a **GitHub repository** for version control and colla
 ### ✅ **CRUD Endpoints**
 The API provides all necessary **Create, Read, Update, and Delete** operations for user management.  
 
-### ✅ **GitHub Copilot Debugging**
+### ✅ **Copilot Debugging**
 **Copilot** was used to optimize code, suggest best practices, and debug any errors.  
 
 ### ✅ **Data Validation**
